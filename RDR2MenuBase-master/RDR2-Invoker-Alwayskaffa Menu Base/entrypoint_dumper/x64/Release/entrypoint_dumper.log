@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+C:\Users\Robske\Desktop\RDR2-Invoker-AlwayskaffaV2\entrypoint_dumper\native_engine.hpp(40,11): warning C4244: 'return': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Robske\Desktop\RDR2-Invoker-AlwayskaffaV2\entrypoint_dumper\native_engine.hpp(89,113): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+     Creating library C:\Users\Robske\Desktop\RDR2-Invoker-AlwayskaffaV2\x64\Release\entrypoint_dumper.lib and object C:\Users\Robske\Desktop\RDR2-Invoker-AlwayskaffaV2\x64\Release\entrypoint_dumper.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 212 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  entrypoint_dumper.vcxproj -> C:\Users\Robske\Desktop\RDR2-Invoker-AlwayskaffaV2\x64\Release\entrypoint_dumper.asi
